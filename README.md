@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Amulya</h1>
 <h3 align="center">An Aspiring Frontend Developer from India. Passionate about creating captivating web experiences. Self-taught with a love for HTML, CSS, and JS. Seeking opportunities to learn and collaborate</h3>
-<img align="right" alt="women" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/15a84771907619.5bd5b0e3e7acb.jpg">
 
 - 🌱 I’m currently learning **JavaScript, React.js**
 
